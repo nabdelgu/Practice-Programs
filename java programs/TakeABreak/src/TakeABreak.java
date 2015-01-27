@@ -42,7 +42,7 @@ public class TakeABreak {
     /**
      * Return the time left HH/MM/SS format
      * @param secondsCount
-     * @returncount
+     * @return count
      */
     public static String formatHHMMSS(int secondsCount){  
         //Calculate the seconds to display:  

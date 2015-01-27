@@ -1,2 +1,5 @@
 *.class
 .DS_Store
+/python programs/Movie/nbproject/private/
+/java programs/Standard_Deviation/nbproject/private/
+/java programs/Standard_Deviation/build/
